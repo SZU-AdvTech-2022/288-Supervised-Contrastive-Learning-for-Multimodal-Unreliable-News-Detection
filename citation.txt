@@ -1,6 +1,6 @@
-@inproceedings{REPO-289,
+@inproceedings{REPO-288,
     author = "Zhang, Wenjia and Gui, Lin and He, Yulan",
-    booktitle = "Proceedings of the 30th ACM International Conference on Information \\& Knowledge Management",
+    booktitle = "Proceedings of the 30th ACM International Conference on Information \\\\& Knowledge Management",
     pages = "3637--3641",
     title = "{Supervised Contrastive Learning for Multimodal Unreliable News Detection in Covid-19 Pandemic}",
     year = "2021"
